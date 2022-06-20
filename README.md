@@ -34,3 +34,7 @@ class Solution:
             else:
                 dict[nums[i]] = i # 만약 저장 함수 dict에 없을때 , 그 숫자에 i index값을 저장
 ```
+----
+## Result
+Runtime: 119 ms, faster than 43.55% of Python3 online submissions for Two Sum.\
+Memory Usage: 15.2 MB, less than 49.72% of Python3 online submissions for Two Sum.
